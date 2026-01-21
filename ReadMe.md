@@ -62,8 +62,21 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 
 💡 Insights Principais 
 
-- O público-alvo mais responsivo às campanhas é solteiro, sem filhos, com curso superior e maior renda.
-- Promoções são um fator decisivo para aumentar vendas.
-- O e-commerce já é relevante e merece maior investimento.
+1. Visão do Cliente
+- A maioria dos clientes tem curso superior.
+- A maior parte é solteira.
+- As compras em loja física são mais comuns que na web ou catálogo.
+- Muitos clientes aproveitam descontos.
 
+2. Comportamento de Compra
+- Quem tem salário maior costuma gastar mais.
+- Pessoas solteiras gastam mais do que casadas ou divorciadas.
+- Famílias com filhos ou adolescentes em casa gastam menos.
 
+3. Performance das Campanhas
+- Só uma parte dos clientes comprou nas campanhas (16%).
+- Pessoas com curso superior foram as que mais compraram.
+- Clientes com renda maior responderam melhor às campanhas.
+
+4. Padrões de Compra por País
+- Nota-se uma queda de compras no ano 2021, por consequência da pandemia.
